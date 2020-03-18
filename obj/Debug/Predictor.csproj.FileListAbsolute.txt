@@ -1,0 +1,14 @@
+C:\Users\30029307\source\repos\Predictor\bin\Debug\Predictor.exe.config
+C:\Users\30029307\source\repos\Predictor\bin\Debug\Predictor.exe
+C:\Users\30029307\source\repos\Predictor\bin\Debug\Predictor.pdb
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.csprojAssemblyReference.cache
+C:\Users\30029307\source\repos\Predictor\obj\Debug\MainWindow.g.cs
+C:\Users\30029307\source\repos\Predictor\obj\Debug\App.g.cs
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor_MarkupCompile.cache
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor_MarkupCompile.lref
+C:\Users\30029307\source\repos\Predictor\obj\Debug\MainWindow.baml
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.g.resources
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.Properties.Resources.resources
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.csproj.GenerateResource.cache
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.exe
+C:\Users\30029307\source\repos\Predictor\obj\Debug\Predictor.pdb
